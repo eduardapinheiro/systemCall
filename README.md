@@ -1,6 +1,3 @@
-# systemCall
-Chamada de sistema do Kernel Linux
-
 ## Chamada de sistema no Kernel do Linux
 
 Neste tutorial estarei ensinando como adicionar uma chamada de sistema no Kernel do Sistema operacional linux. Estarei definindo um  sistema de chamada que imprime no log do Kernel o maior número de dois informados pelo usuário.
